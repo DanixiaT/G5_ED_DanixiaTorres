@@ -1,0 +1,6 @@
+Instrucciones para subir cambios al repositorio es necesario entrar a la carpeta en la que se encuentra desde la terminal y 
+realizar los siguientes comandos.
+git status(revisar las nuevas modificaciones)
+git add (agregar todos los archivos nuevos)
+git commit -m "descripción commit" (poner una descripción de los cambios realizados)
+git push (subir cambios)
